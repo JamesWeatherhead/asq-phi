@@ -10,7 +10,9 @@ This is the **first benchmark to test both safety (PHI removal) AND utility (cli
 
 ## The Problem: Safe Handoff from HIPAA BAA LLMs
 
-Large Language Models (LLMs) running inside HIPAA Business Associate Agreements (BAAs) can legally process Protected Health Information (PHI). However, when these LLMs need external tools like: web search APIs, Model Context Protocol (MCP) servers, medical databases, etc and any query crossing the BAA boundary **must not contain PHI**.
+Large Language Models (LLMs) running inside HIPAA Business Associate Agreements (BAAs) can legally ingest and process Protected Health Information (PHI) because all computation occurs inside the institution’s secure, BAA-covered environment. However, when these LLMs need external tools like: web search APIs, Model Context Protocol (MCP) servers, non-BAA knowledge services, or external medical databases, the model must send a query across the BAA boundary, and no PHI is permitted to cross that boundary under any circumstance. This creates a strict safe harbor barrier: inside the BAA environment, PHI is allowed; outside the BAA environment, even a single identifier makes the request non-compliant.
+
+In practice, the BAA side typically runs Azure HIPAA-covered LLMs or on-prem models, which are usually older releases with fixed knowledge cutoffs and often 1–2 versions behind frontier models. These internal models have no live web access, so external retrieval requires crossing into a non-BAA environment that may contain MCP servers, web_search_api tools, or deep_research_api systems. These external endpoints operate on the live internet, are not HIPAA-constrained, and usually rely on frontier-class models that cannot legally receive PHI.
 
 Current de-identification systems fail at this handoff because:
 
