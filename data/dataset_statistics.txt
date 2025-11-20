@@ -1,0 +1,49 @@
+======================================================================
+SYNTHETIC CLINICAL QUERY DATASET - STATISTICS
+======================================================================
+
+DATASET OVERVIEW
+----------------------------------------------------------------------
+Total Queries: 1,051
+  • Queries with PHI: 832 (79.2%)
+  • Hard Negatives (no PHI): 219 (20.8%)
+Total PHI Elements: 2,973
+
+PHI DENSITY METRICS
+----------------------------------------------------------------------
+Overall (all queries):
+  • Mean PHI per query: 2.83
+  • Median PHI per query: 3.0
+
+For queries with PHI only:
+  • Mean PHI per query: 3.57
+  • Median PHI per query: 4.0
+
+PHI TYPE DISTRIBUTION
+----------------------------------------------------------------------
+  GEOGRAPHIC_LOCATION: 826 (27.8%)
+  NAME: 814 (27.4%)
+  DATE: 806 (27.1%)
+  MEDICAL_RECORD_NUMBER: 305 (10.3%)
+  HEALTH_PLAN_BENEFICIARY_NUMBER: 91 (3.1%)
+  PHONE_NUMBER: 45 (1.5%)
+  SOCIAL_SECURITY_NUMBER: 33 (1.1%)
+  EMAIL_ADDRESS: 31 (1.0%)
+  UNIQUE_IDENTIFIER: 14 (0.5%)
+  ACCOUNT_NUMBER: 4 (0.1%)
+  FAX_NUMBER: 2 (0.1%)
+  CERTIFICATE_LICENSE_NUMBER: 1 (0.03%)
+  IP_ADDRESS: 1 (0.03%)
+
+QUERY COMPLEXITY DISTRIBUTION
+----------------------------------------------------------------------
+  0 PHI elements: 219 queries (20.8%)
+  1 PHI elements: 1 queries (0.1%)
+  2 PHI elements: 29 queries (2.8%)
+  3 PHI elements: 301 queries (28.6%)
+  4 PHI elements: 494 queries (47.0%)
+  5 PHI elements: 7 queries (0.7%)
+
+======================================================================
+Generated from: synthetic_dataset.txt
+======================================================================

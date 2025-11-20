@@ -1,0 +1,10 @@
+config.ini
+.env
+generation_errors.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+node_modules/
+venv/
