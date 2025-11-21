@@ -5,6 +5,14 @@
 ![Queries](https://img.shields.io/badge/Queries-1051-orange)
 ![PHI elements](https://img.shields.io/badge/PHI_elements-2973-red)
 
+[![ASQ-PHI dataset composition](figures/fig3_dataset_composition.png)](https://doi.org/10.17632/csz5dzp7nx.1)
+
+**1,051 fully synthetic adversarial clinical search queries with ground-truth PHI annotations**
+
+- Stress-test your HIPAA de-identification layer at the **BAA → non-BAA safe handoff** boundary  
+- Measure **both** PHI leakage **and** clinical utility erosion (over-redaction)  
+- 100% synthetic • No real patient data • MIT licensed
+
 **ASQ-PHI** (Adversarial Synthetic Queries for Protected Health Information de-identification) is a benchmark dataset of **1,051 fully synthetic clinical search queries** designed to stress test HIPAA-compliant de-identification software.
 
 This is the **first benchmark to test both safety (PHI removal) AND utility (clinical meaning preservation)** on search queries, targeting the "safe handoff" problem in clinical LLM workflows.
