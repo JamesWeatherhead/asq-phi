@@ -1,4 +1,9 @@
 # ASQ-PHI: Adversarial Synthetic Queries for PHI
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Data](https://img.shields.io/badge/DOI-10.17632%2Fcsz5dzp7nx.1-blue)](https://doi.org/10.17632/csz5dzp7nx.1)
+![Synthetic](https://img.shields.io/badge/Data-100%25_synthetic-brightgreen)
+![Queries](https://img.shields.io/badge/Queries-1051-orange)
+![PHI elements](https://img.shields.io/badge/PHI_elements-2973-red)
 
 **ASQ-PHI** (Adversarial Synthetic Queries for Protected Health Information de-identification) is a benchmark dataset of **1,051 fully synthetic clinical search queries** designed to stress test HIPAA-compliant de-identification software.
 
