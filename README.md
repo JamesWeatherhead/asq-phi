@@ -22,7 +22,7 @@ Current de-identification systems fail at the safe handoff from LLMs running ins
 
 ### Example: The Age Problem
 
-Many systems flag "18-year-old female" as PHI and redact the age, despite **age <90 being explicitly non-identifying under Safe Harbor**.
+Many systems flag "18-year-old female" as PHI and redact the age, despite **age under 90 being explicitly non-identifying under Safe Harbor**.
 
 **Original query:**
 ```
