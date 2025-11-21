@@ -12,7 +12,8 @@ This is the **first benchmark to test both safety (PHI removal) AND utility (cli
 
 Hospitals are beginning to deploy HIPAA-compliant Business Associate Agreement (BAA) large language models (LLMs). In the public setting, LLMs with fixed training cutoffs are routinely augmented with tools such as web search, deep research, and Model Context Protocol (MCP) servers so they can reach up-to-date knowledge. BAA LLMs, by contrast, almost never expose live web search or external tools, even though clinicians expect LLMs to surface current guidelines, drug safety updates, and literature. The constraint is that any query leaving a BAA-protected LLM for an external service must be free of Protected Health Information (PHI). We refer to this boundary as the safe handoff: the moment when a clinician’s PHI-containing query, generated inside a HIPAA-compliant BAA LLM, must be transformed into a HIPAA Safe Harbor–compliant version before being sent to non-BAA tools such as web search APIs, external evidence services, or MCP servers. Existing de-identification datasets are built from long electronic health record narratives rather than the short, compressed search queries clinicians type into LLM chat interfaces, so they do not allow de-identification performance to be tested at this safe handoff. ASQ-PHI (Adversarial Synthetic Queries for Protected Health Information de-identification) is constructed to supply this missing data: a benchmark of 1,051 fully synthetic clinical search queries with ground-truth PHI annotations for stress-testing HIPAA-compliant de-identification software. All queries were generated using Azure OpenAI GPT-4o. No real patient data were used.
 
-Research hypothesis:
+## Research hypothesis:
+
 Current de-identification systems fail at the safe handoff from LLMs running inside HIPAA BAAs to external tools in two ways:
 
 1) Leaking PHI
