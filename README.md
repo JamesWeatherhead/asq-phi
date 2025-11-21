@@ -164,6 +164,82 @@ ASQ-PHI is designed for:
 
 ---
 
+## Extending ASQ-PHI: Fork and Generate Your Own Dataset
+
+Most teams need a domain-specific, regulation-specific safe-handoff benchmark but do not have time to design one from scratch. ASQ-PHI is therefore built as a **template**: you keep the data format, validators, and evaluation code, and you swap in your own language, regulation, and clinical setting.
+
+### What you can change
+
+By forking this repo and editing a single notebook, you can generate variants that differ in:
+
+- **Language**  
+  e.g. English, Spanish, French, German.
+
+- **Regulatory framework / PHI schema**  
+  HIPAA Safe Harbor, GDPR-style identifiers, national ID schemes, or an internal PHI/PII list.
+
+- **Clinical specialty and setting**  
+  Oncology, cardiology, pediatrics, psychiatry, radiology, ICU, primary care, etc.
+
+- **Prompting / query style**  
+  Short LLM chat prompts, order-entry text, triage descriptions, internal ticket text, tool-calling prompts.
+
+- **Model**  
+  GPT-4o / GPT-4.1, other hosted models, or local/open-weight models.
+
+All variants still use the same `QUERY` / `PHI_TAGS` structure and the same evaluation metrics, so results remain comparable.
+
+---
+
+### Minimal steps to create a new variant
+
+#### 1. Fork and duplicate the pipeline
+- Fork this repo to your GitHub organization.
+- Copy `code/data_generation_pipeline.ipynb` and rename it (e.g. `data_generation_oncology_es.ipynb`).
+
+#### 2. Edit the system prompt (this is the main change)
+- Switch to your target **language**.  
+- Describe your **clinical setting** and **question style**.  
+- List the **identifier types** you want the model to emit.  
+- **Do not change** the output structure:
+
+===QUERY===
+
+===PHI_TAGS===
+{"identifier_type": "...", "value": "..."}
+
+#### 3. Update the identifier schema if needed
+- In the notebook, adjust the allowed `identifier_type` values  
+  (for example add `NATIONAL_ID`, `HOSPITAL_NAME`, `POSTAL_CODE`, etc.).
+- The existing validation code will enforce this schema and reject malformed examples.
+
+#### 4. Point to your model and run
+- Change the client config to your chosen model (GPT-4o, Claude, MedLM, local LLM, …).
+- Run the notebook to:
+  - Generate synthetic queries + PHI tags  
+  - Validate JSON and span alignment  
+  - Ensure hard negatives contain **zero** identifiers  
+  - Export a cleaned dataset + summary statistics
+
+#### 5. Name and document your dataset
+- Examples: `ASQ-PHI-Oncology`, `ASQ-PHI-ES-GDPR`, `ASQ-PHI-Pediatrics-Triage`.  
+- In your README or paper, state the **language**, **regulation**, **specialty**, and **query style**.
+
+---
+
+### Why this is worth your time
+
+Forking ASQ-PHI instead of building a new pipeline gives you:
+
+- A **ready-made, tested** safe-handoff framework that never touches real patient data.
+- Region- and specialty-specific benchmarks that still share a **common format and metrics**, enabling fair comparison.
+- A clear, **auditable** story for privacy and compliance teams: how data was generated, which identifiers were included, and how hard negatives were constructed.
+
+ASQ-PHI is meant to be a **base layer**, not a one-off dataset.  
+Fork it, adapt it to your regulatory and clinical reality, and use the same framework to stress-test your own de-identification system at the BAA safe-handoff boundary.
+
+---
+
 ## Citation
 
 If you use ASQ-PHI for benchmarking or research, please cite:
