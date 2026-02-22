@@ -1,5 +1,6 @@
 # ASQ-PHI: Adversarial Synthetic Queries for PHI
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Paper](https://img.shields.io/badge/Paper-Data_in_Brief-green)](https://doi.org/10.1016/j.dib.2026.112586)
 [![Data](https://img.shields.io/badge/DOI-10.17632%2Fcsz5dzp7nx.1-blue)](https://doi.org/10.17632/csz5dzp7nx.1)
 ![Synthetic](https://img.shields.io/badge/Data-100%25_synthetic-brightgreen)
 ![Queries](https://img.shields.io/badge/Queries-1051-orange)
