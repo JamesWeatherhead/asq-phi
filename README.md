@@ -1,10 +1,12 @@
 # ASQ-PHI: Adversarial Synthetic Queries for PHI
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-Data_in_Brief-green)](https://doi.org/10.1016/j.dib.2026.112586)
+[![Cite: Data in Brief](https://img.shields.io/badge/Cite-Data_in_Brief_2026-green)](https://doi.org/10.1016/j.dib.2026.112586)
 [![Data](https://img.shields.io/badge/Dataset-10.17632%2Fcsz5dzp7nx.1-blue)](https://doi.org/10.17632/csz5dzp7nx.1)
 ![Synthetic](https://img.shields.io/badge/Data-100%25_synthetic-brightgreen)
 ![Queries](https://img.shields.io/badge/Queries-1051-orange)
 ![PHI elements](https://img.shields.io/badge/PHI_elements-2973-red)
+
+> 📄 **How to cite:** If you use ASQ-PHI, please cite the peer-reviewed paper — Weatherhead, Golovko & McCaffrey (2026), *Data in Brief* **65**, 112586, doi:[10.1016/j.dib.2026.112586](https://doi.org/10.1016/j.dib.2026.112586). The Mendeley DOI points to the raw data record; the paper is the citation of record. See [full citation ↓](#citation).
 
 **ASQ-PHI** (Adversarial Synthetic Queries for Protected Health Information de-identification) is a benchmark dataset of **1,051 fully synthetic clinical search queries** designed to test HIPAA-compliant de-identification software, specifically targeting the "Safe Handoff" problem in clinical LLM workflows.
 

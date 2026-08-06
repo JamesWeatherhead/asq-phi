@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use ASQ-PHI, please cite the Data in Brief article listed under preferred-citation."
+title: "ASQ-PHI: Adversarial Synthetic Queries for PHI"
+type: dataset
+authors:
+  - family-names: Weatherhead
+    given-names: James
+  - family-names: Golovko
+    given-names: George
+  - family-names: McCaffrey
+    given-names: Peter
+repository-code: "https://github.com/JamesWeatherhead/asq-phi"
+url: "https://github.com/JamesWeatherhead/asq-phi"
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.17632/csz5dzp7nx.1
+    description: "Mendeley Data record (raw dataset; cite the article below, not this DOI)."
+preferred-citation:
+  type: article
+  title: "ASQ-PHI: An adversarial synthetic data benchmark for clinical de-identification and search utility"
+  authors:
+    - family-names: Weatherhead
+      given-names: James
+    - family-names: Golovko
+      given-names: George
+    - family-names: McCaffrey
+      given-names: Peter
+  journal: "Data in Brief"
+  year: 2026
+  volume: 65
+  start: 112586
+  doi: "10.1016/j.dib.2026.112586"
+  url: "https://doi.org/10.1016/j.dib.2026.112586"
