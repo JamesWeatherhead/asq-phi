@@ -246,20 +246,21 @@ Fork it, adapt it to your regulatory and clinical reality, and use the same fram
 
 ## Citation
 
-If you use ASQ-PHI for benchmarking or research, please cite:
+If you use ASQ-PHI, please cite:
+
+Weatherhead, J., Golovko, G., & McCaffrey, P. (2026). ASQ-PHI: An adversarial synthetic data benchmark for clinical de-identification and search utility. *Data in Brief, 65*, 112586. https://doi.org/10.1016/j.dib.2026.112586
 
 ```bibtex
-@dataset{weatherhead2025asqphi,
-  title={ASQ-PHI: An Adversarial Synthetic Benchmark for Clinical De-Identification and Search Utility},
-  author={Weatherhead, James},
-  year={2025},
-  publisher={Mendeley Data},
-  version={V1},
-  doi={10.17632/csz5dzp7nx.1}
+@article{weatherhead2026asqphi,
+  title={ASQ-PHI: An adversarial synthetic data benchmark for clinical de-identification and search utility},
+  author={Weatherhead, James and Golovko, George and McCaffrey, Peter},
+  journal={Data in Brief},
+  volume={65},
+  pages={112586},
+  year={2026},
+  doi={10.1016/j.dib.2026.112586}
 }
 ```
-
-**Mendeley Data:** https://doi.org/10.17632/csz5dzp7nx.1
 
 ---
 
