@@ -1,0 +1,875 @@
+===QUERY===
+What are the guidelines for prescribing ACE inhibitors to a 55-year-old male with chronic kidney disease and hypertension? He was diagnosed back in 2021.
+===PHI_TAGS===
+
+===QUERY===
+Common side effects of lisinopril in a 55-year-old African American male with a long history of hypertension diagnosed in 2018?
+===PHI_TAGS===
+
+===QUERY===
+Management recommendations for a 65-year-old female with a recent myocardial infarction and diabetes, seen last summer?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 72-year-old female with a history of Alzheimer's disease and a Framingham Risk Score of 20%?
+===PHI_TAGS===
+
+===QUERY===
+What is the latest evidence on the use of ACE inhibitors for hypertension management in a patient with a history of the Chaddock reflex and diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the most common side effects of esomeprazole for a 65-year-old male with GERD?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for a 30-year-old male diagnosed with Guillain-Barré syndrome last year after receiving a flu vaccination?
+===PHI_TAGS===
+
+===QUERY===
+Does a positive Babinski sign strongly correlate with upper motor neuron disease in a 60-year-old patient?
+===PHI_TAGS===
+
+===QUERY===
+What are the ADA recommendations for a 55-year-old man with Type 1 diabetes and a family history of Alzheimer's disease?
+===PHI_TAGS===
+
+===QUERY===
+What are the differential diagnoses for a 60-year-old female with elevated CRP and ESR levels and a positive Chaddock reflex?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for treating a 44-year-old female with severe migraine and a history of rheumatoid arthritis. She moved to the area in 2021.
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 60-year-old male diagnosed with Lou Gehrig’s disease and a family history of Parkinson's?
+===PHI_TAGS===
+
+===QUERY===
+Recommended follow-up for a patient with a positive Chaddock reflex and recent high D-dimer levels, living near the living near a university hospital?
+===PHI_TAGS===
+
+===QUERY===
+What is the standard follow-up protocol for a patient with a history of bariatric surgery and a current BMI of 35?
+===PHI_TAGS===
+
+===QUERY===
+What is the 5-year survival rate for a 70-year-old male with a Gleason score of 7 prostate cancer diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the contraindications for beta-blockers in a 58-year-old African American female with a history of asthma and hypertension diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+What is the latest treatment protocol for a patient with a score of 12 on the Wells criteria and a family history of cardiovascular disease?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 70-year-old male with cirrhosis and a MELD score of 25, diagnosed in 2022?
+===PHI_TAGS===
+
+===QUERY===
+Considering a switch from warfarin to apixaban for a 58-year-old female with atrial fibrillation and a HAS-BLED score of 3, what are the risks?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for initiating insulin therapy in a 55yo Hispanic female with uncontrolled Type 2 Diabetes and an HbA1c of 10.
+===PHI_TAGS===
+
+===QUERY===
+What is the 5-year survival rate for a 60-year-old Asian female diagnosed with early-stage non-small cell lung cancer in 2022?
+===PHI_TAGS===
+
+===QUERY===
+What are the potential interactions between lisinopril and ibuprofen in a 72-year-old patient with a history of severe asthma, diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+What is the recommended dosage of metformin for a 50-year-old female with a BMI over 30, newly diagnosed with Type 2 Diabetes last month?
+===PHI_TAGS===
+
+===QUERY===
+Current treatment recommendations for a 42-year-old male with a history of Wilson's disease diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the dosing protocols for a 65-year-old female with hypothyroidism managed with levothyroxine, last checked in 2022, exhibiting signs of thyroid storm?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing a 60-year-old male diagnosed with diabetes in 2020, who has an elevated Framingham Risk Score and was recently evaluated at a community clinic?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of low-dose aspirin in preventing heart attacks in a 63-year-old African American male with a history of hypertension.
+===PHI_TAGS===
+
+===QUERY===
+What are the latest treatment protocols for a 70-year-old male with severe COPD who has been on a high dose of prednisone since last year?
+===PHI_TAGS===
+
+===QUERY===
+Updated guidelines for managing congestive heart failure in a 70-year-old male with a history of myocardial infarction and a current regime of beta-blockers and ACE inhibitors?
+===PHI_TAGS===
+
+===QUERY===
+Recommended antibiotics for a 7-year-old with a high McIsaac score for strep throat, seen in an outpatient clinic last fall?
+===PHI_TAGS===
+
+===QUERY===
+Management of chronic pain in a 55-year-old woman with a history of multiple joint replacements, last assessed in the summer of 2022.
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for Lyme disease in a patient with a positive Chaddock reflex and elevated ESR?
+===PHI_TAGS===
+
+===QUERY===
+Recommended follow-up for a 50-year-old female post-bariatric surgery with a history of asthma, seen last year in the south.
+===PHI_TAGS===
+
+===QUERY===
+What is the most effective treatment for a 32-year-old female with chronic migraine and a family history of epilepsy?
+===PHI_TAGS===
+
+===QUERY===
+What is the treatment protocol for a 45-year-old male with a high Chaddock reflex and suspected multiple sclerosis, diagnosed in 2020?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest treatment guidelines for congestive heart failure in a 70-year-old patient with a prior history of myocardial infarction?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for early detection and management of Alzheimer’s disease in a 65-year-old patient with a family history of dementia.
+===PHI_TAGS===
+
+===QUERY===
+Efficacy of rivaroxaban vs. warfarin for stroke prevention in a 75-year-old female with atrial fibrillation?
+===PHI_TAGS===
+
+===QUERY===
+Prognostic factors for chronic kidney disease in a 68-year-old Hispanic male with a GFR of 45 mL/min/1.73m2?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest recommendations for postoperative care for a 70-year-old female with a history of Alzheimer’s disease as noted in the 2023 update of the Chaddock reflex study?
+===PHI_TAGS===
+
+===QUERY===
+Are there any known interactions between warfarin and turmeric supplements in elderly patients with a history of stroke?
+===PHI_TAGS===
+
+===QUERY===
+Current best practices for the treatment of a patient with GAD and a positive Chaddock reflex, evaluated in 2022.
+===PHI_TAGS===
+
+===QUERY===
+What are the differential diagnoses for an elevated INR in a 55-year-old woman who presented last week with fatigue and jaundice, in addition to a history of lupus diagnosed in 2015?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of the DASH diet in reducing hypertension for a 60-year-old female with a history of CAD and chronic migraines?
+===PHI_TAGS===
+
+===QUERY===
+What is the best first-line treatment for a 60-year-old female with idiopathic pulmonary fibrosis according to the latest guidelines from 2023?
+===PHI_TAGS===
+
+===QUERY===
+Management of chronic pain in a patient post-hip replacement surgery, specifically reviewing connections to the McGill Pain Index.
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of Lisinopril in elderly patients with a history of hypertension and diabetes, especially those managing early-stage Alzheimer's, diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What is the impact of a high Framingham Risk Score on a 55-year-old male's cardiovascular health?
+===PHI_TAGS===
+
+===QUERY===
+Comparison of efficacy between losartan and valsartan in patients diagnosed with hypertension in 2021.
+===PHI_TAGS===
+
+===QUERY===
+What are the indications for starting anticoagulation in an 80-year-old male with a high CHADS2 score and atrial fibrillation?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of proton pump inhibitors commonly seen in patients with GERD and a history of Barrett's esophagus?
+===PHI_TAGS===
+
+===QUERY===
+What are the possible side effects of Losartan in a 55-year-old Asian male with a history of hypertension?
+===PHI_TAGS===
+
+===QUERY===
+Is there a correlation between a high Chaddock reflex and multiple sclerosis in a 40-year-old African American woman?
+===PHI_TAGS===
+
+===QUERY===
+Can you explain the treatment protocol for a 70-year-old woman with a history of Alzheimer's and a Mini-Mental State Examination (MMSE) score of 18?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for adjusting insulin dosage in a 54-year-old female with a BMI of 34 and a history of gestational diabetes, currently on Lantus.
+===PHI_TAGS===
+
+===QUERY===
+Protocol for managing post-operative pain in a 64-year-old male, diagnosed with prostate cancer in 2021, following robotic-assisted laparoscopic prostatectomy?
+===PHI_TAGS===
+
+===QUERY===
+Management recommendations for a 52-year-old patient with a high Chaddock reflex and diagnosed with sarcoidosis last year?
+===PHI_TAGS===
+
+===QUERY===
+Recommended dosage of amoxicillin for a 7-year-old child with streptococcal pharyngitis and no known drug allergies?
+===PHI_TAGS===
+
+===QUERY===
+What is the differential diagnosis for a 45-year-old male presenting with a positive Chaddock reflex and a history of epilepsy, managed since 2020?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for the treatment of a 60-year-old patient with atrial fibrillation on warfarin, targeting an INR of 2.0-3.0?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest treatment protocols for a 45-year-old female patient with rheumatoid arthritis, using the Chaddock reflex to monitor progression?
+===PHI_TAGS===
+
+===QUERY===
+Best practices for managing a 55-year-old male with a high CHADS2 score and a history of non-Hodgkin's lymphoma, diagnosed five years ago, when using anticoagulants?
+===PHI_TAGS===
+
+===QUERY===
+Updated recommendations for managing a 40-year-old female with a history of von Willebrand disease who had a surgical procedure last month?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 70-year-old female with a Chaddock reflex and a history of Alzheimer's disease documented in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing a 65-year-old female patient with a history of atrial fibrillation and recent increase in CHA2DS2-VASc score since 2021.
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing hypertension in a 60-year-old male with a Wells score of 3 and a history of stroke diagnosed in 2022?
+===PHI_TAGS===
+
+===QUERY===
+Management of a 68-year-old male with a history of heart failure and past MI, current eGFR is 45, and on metoprolol?
+===PHI_TAGS===
+
+===QUERY===
+Management strategies for a 62-year-old female with a high Chaddock reflex and a history of Alzheimer's disease?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for treating a 50-year-old Asian male with a history of hypertension and a high Framingham risk score?
+===PHI_TAGS===
+
+===QUERY===
+Are there any new treatment protocols for elderly patients with COPD in the southern US, particularly those diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of duloxetine in a 55-year-old woman with a history of major depressive disorder?
+===PHI_TAGS===
+
+===QUERY===
+What are the new treatment options for a 55-year-old female with a history of Addison's disease and an abnormal Ferriman-Gallwey score diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+What are the management guidelines for a 42-year-old female with a positive Chaddock reflex and a history of multiple sclerosis diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of amoxicillin in a 30-year-old male with no prior history of drug allergies, based on recent clinical trials?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for managing epilepsy in a 30-year-old female with a family history of Huntington's disease, evaluated in 2022.
+===PHI_TAGS===
+
+===QUERY===
+Latest guidelines for managing chronic pain in elderly patients with a history of gout, taking into account recent recommendations from Mayo Clinic.
+===PHI_TAGS===
+
+===QUERY===
+Prognosis for a 67-year-old male with a high CHA2DS2-VASc score and atrial fibrillation, diagnosed in 2021, who is considering a switch to apixaban?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing hypertension in an 80-year-old female with a recent history of negative Chaddock reflex and diagnosed with Alzheimer's in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What is the differential diagnosis for a 55-year-old male with elevated bilirubin levels, hx of diabetes, and a recent Ludwig's angina treated last year?
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for a 55-year-old female presenting with Cushing's syndrome?
+===PHI_TAGS===
+
+===QUERY===
+What is the protocol for monitoring blood glucose levels in patients with a family history of Type 1 diabetes mellitus?
+===PHI_TAGS===
+
+===QUERY===
+What is the typical treatment protocol for a 55-year-old patient with diabetes and a high Framingham risk score seen last summer?
+===PHI_TAGS===
+
+===QUERY===
+Updated treatment protocols for managing DKA in a 12-year-old female with no known allergies, currently on the keto diet since January 2023?
+===PHI_TAGS===
+
+===QUERY===
+What are the risks of general anesthesia in elderly patients with a BMI of 30 and a history of COPD, considering the latest 2023 guidelines?
+===PHI_TAGS===
+
+===QUERY===
+Efficacy of rivaroxaban in preventing DVT in patients with a high CHA2DS2-VASc score and a history of MI in 2020?
+===PHI_TAGS===
+
+===QUERY===
+Current treatment options for a 70-year-old male presenting with fatigue and elevated liver enzymes, previously diagnosed with CHF in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment protocols for a 55-year-old male with a positive Chaddock reflex and elevated bilirubin levels of 8 diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of amlodipine in an elderly patient with a history of myocardial infarction diagnosed in 2019?
+===PHI_TAGS===
+
+===QUERY===
+What are the differential diagnoses for a 45-year-old female with persistent cough and elevated ESR seen last summer?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of new biologic agent for 34-year-old male patient with Crohn's disease, elevate WBC count noted last month.
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of atorvastatin in a 60-year-old female with a Framingham risk score of 17 and a history of lupus?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing hypertension in a 65-year-old male, risk of adverse reactions with concurrent use of NSAIDs and anticoagulants?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest guidelines for managing hypertension in a 60-year-old African American male, focusing on the impact of the DASH diet as studied in the Framingham Heart Study?
+===PHI_TAGS===
+
+===QUERY===
+How effective is the GUSTO trial protocol for managing acute myocardial infarctions in elderly patients with a history of diabetes and hypertension?
+===PHI_TAGS===
+
+===QUERY===
+What is the best treatment option for a 60-year-old female with a history of Wilson's disease diagnosed in 2019?
+===PHI_TAGS===
+
+===QUERY===
+Latest treatment protocols for adults with Marfan syndrome, seen in a tertiary care center in California during the summer.
+===PHI_TAGS===
+
+===QUERY===
+Can you provide the differential diagnosis for a 30-year-old female with a potassium level of 3.5 and a presenting Wells score of 8?
+===PHI_TAGS===
+
+===QUERY===
+Recommended follow-up for a 56-year-old female patient diagnosed with rheumatoid arthritis in 2021, currently scoring 3.5 on the DAS28?
+===PHI_TAGS===
+
+===QUERY===
+Preferred antibiotic treatment for a 34-year-old female diagnosed with cellulitis, considering her travel history to the Ohio River Valley last summer.
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a patient with a 6-month history of progressive ALS and a Wells score of 3.5?
+===PHI_TAGS===
+
+===QUERY===
+Recommended dosage of allopurinol for an 80-year-old male with chronic kidney disease and a living relative diagnosed with Alzheimer’s disease in 2018?
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of warfarin in patients with a history of atrial fibrillation, evaluating data from the ARISTOTLE study?
+===PHI_TAGS===
+
+===QUERY===
+Management protocol for a patient with a Chaddock reflex and elevated CRP levels, recently diagnosed with Lyme disease?
+===PHI_TAGS===
+
+===QUERY===
+Differential diagnosis for a 60-year-old patient with elevated D-dimer levels and a history of DVT according to the latest ACC guidelines?
+===PHI_TAGS===
+
+===QUERY===
+Difference in outcomes for 70-year-old females with RA treated with Humira vs. Enbrel, diagnosed in 2020?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of Losartan for patients diagnosed with hypertension in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment guidelines for a 60-year-old female with a history of multiple sclerosis and elevated bilirubin levels noted last year?
+===PHI_TAGS===
+
+===QUERY===
+What is the recommended course of action for a 65-year-old with a history of GERD, presenting with Chaddock reflex?
+===PHI_TAGS===
+
+===QUERY===
+What is the differential diagnosis for shortness of breath in a 42-year-old male patient with a Modified Duke Score of 4 and a history of Marfan syndrome?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of aspirin vs. heparin in preventing DVT in a 60-year-old female with a high Wells score and a history of rheumatoid arthritis.
+===PHI_TAGS===
+
+===QUERY===
+Recommended guidelines for managing hypertension in a 67-year-old male patient from the Denver metro area who was diagnosed last year.
+===PHI_TAGS===
+
+===QUERY===
+What are the potential side effects of atorvastatin in a 55-year-old male with a history of type 2 diabetes and hyperlipidemia, diagnosed 3 years ago?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest guidelines for managing hypertension in elderly patients with a family history of cardiovascular disease and high Framingham risk score?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of low-dose aspirin for preventing cardiovascular events in a 70-year-old female with a history of hypertension and diabetes, based on Framingham Heart Study findings.
+===PHI_TAGS===
+
+===QUERY===
+Is there a correlation between elevated BNP levels and congestive heart failure prognosis in elderly patients?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of lisinopril in a 70-year-old African American male with a history of hypertension and diabetes, diagnosed in 2019?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of losartan in a 65-year-old African American male with a positive Chaddock reflex?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 70-year-old male with advanced Alzheimer's diagnosed in the year 2020 and a family history of Huntington's disease?
+===PHI_TAGS===
+
+===QUERY===
+What is the current treatment protocol for a 60-year-old Asian male diagnosed with type 2 diabetes and a history of Chaddock reflex?
+===PHI_TAGS===
+
+===QUERY===
+Management of a 66-year-old male with idiopathic pulmonary fibrosis and a recent exacerbation, considering enrollment in the ASCEND clinical trial?
+===PHI_TAGS===
+
+===QUERY===
+Can you give me the latest guidelines for managing a 65-year-old male with Parkinson's disease and high blood pressure diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Best practices for managing a male patient, age 68, with a high Framingham risk score and family history of early onset Alzheimer's.
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of lisinopril in a 55-year-old female with a history of hypertension and diabetes, diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+What are the indications for prescribing amiodarone in patients presenting with the Chaddock reflex and a high CHA2DS2-VASc score?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of amoxicillin in a 5-year-old child with a history of Stevens-Johnson syndrome?
+===PHI_TAGS===
+
+===QUERY===
+Management of a 67-year-old female with chronic kidney disease stage 3, elevated creatinine levels of 2.5 from last checkup?
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of atorvastatin in elderly patients with a history of cardiovascular disease?
+===PHI_TAGS===
+
+===QUERY===
+Current evidence for the use of SGLT2 inhibitors in managing Type 2 Diabetes in patients with concomitant heart failure diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing atrial fibrillation in a 70-year-old patient with a history of stroke, latest updates from 2023 ACC/AHA?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of combination therapy with ipilimumab and nivolumab in a 55-year-old patient with metastatic melanoma?
+===PHI_TAGS===
+
+===QUERY===
+What is the efficacy of aspirin in preventing stroke in a 65-year-old male with a high CHADS2 score?
+===PHI_TAGS===
+
+===QUERY===
+Prognosis for a 56-year-old male with NYHA class III heart failure and a history of prior MI treated in 2019.
+===PHI_TAGS===
+
+===QUERY===
+Treatment protocols for a 55-year-old female with a high Framingham risk score and hyperlipidemia.
+===PHI_TAGS===
+
+===QUERY===
+Management strategies for a 72-year-old female with COPD and a recent exacerbation last month according to GOLD guidelines.
+===PHI_TAGS===
+
+===QUERY===
+What is the latest ADA recommendation for a 40-year-old female with type 1 diabetes, particularly regarding insulin dosing protocols?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations on post-operative care for a patient from King County, who had hip replacement surgery last month?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest ADA guidelines for treating Type 1 Diabetes in a 12-year-old girl with a family history of autoimmune diseases?
+===PHI_TAGS===
+
+===QUERY===
+Treatment guidelines for a patient with bipolar disorder aged 34, considering side effects of lithium and valproate?
+===PHI_TAGS===
+
+===QUERY===
+Is there any new research on managing atrial fibrillation in patients over 70 years old with a CHADS2 score of 2?
+===PHI_TAGS===
+
+===QUERY===
+What are the common side effects of prescribing lisinopril for a 45-year-old patient with a history of chronic kidney disease?
+===PHI_TAGS===
+
+===QUERY===
+What are the typical side effects of lisinopril in a 65-year-old patient with a history of congestive heart failure diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Comparison of cilostazol vs. aspirin for PAD in a 74-year-old female with a Rutherford score of 4, considered for surgery last fall?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of warfarin in a 75-year-old woman with a history of atrial fibrillation, noted on her chart from March 2021?
+===PHI_TAGS===
+
+===QUERY===
+What is the best diagnostic approach for a 60-year-old female patient with a high CHAD2DS2-VASc score and a family history of atrial fibrillation?
+===PHI_TAGS===
+
+===QUERY===
+What is the latest AHA guideline for treating a 62-year-old Hispanic female with CHF and a recent history of stroke?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of albuterol in a 35-year-old male firefighter with a history of asthma?
+===PHI_TAGS===
+
+===QUERY===
+Management of chronic kidney disease in a 65-year-old Hispanic male with elevated creatinine levels?
+===PHI_TAGS===
+
+===QUERY===
+Treatment protocol for a 50-year-old male presenting with elevated D-dimer and suspected DVT, referred to the hematology clinic last month.
+===PHI_TAGS===
+
+===QUERY===
+Recommended steps for managing a 52-year-old female with recently diagnosed sjogren's syndrome during flu season, considering family history of heart disease.
+===PHI_TAGS===
+
+===QUERY===
+What is the significance of an elevated D-dimer level in a 45-year-old female with recent surgery, and how does it impact anticoagulation management?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 40-year-old male with a history of asthma, last exacerbation three months ago, and currently on albuterol?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 68-year-old patient with stage III COPD and a previously diagnosed heart murmur, managed last summer with standard medications?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for managing hypertension in a 70-year-old African American male with a family history of cardiovascular disease.
+===PHI_TAGS===
+
+===QUERY===
+What is the best initial management for a 55-year-old female presenting with symptoms of Chaddock reflex and a positive Wells score without DVT history?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for treating a 45-year-old male with Marfan syndrome, considering his recent increase in Wells score and history of frequent migraines.
+===PHI_TAGS===
+
+===QUERY===
+What are the potential side effects of metformin in a 70-year-old female with a history of T2DM and chronic kidney disease?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of amiodarone in elderly patients, especially those with a history of lung disease?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for the use of biphasic insulin in patients over 60 years old, particularly those with a history of type 1 diabetes and peripheral neuropathy?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 62-year-old male with a PSA level of 4.5 and a Gleason score of 7?
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for follow-up care for a patient with a creatinine level of 1.8, diagnosed with lupus nephritis in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Prognosis for a 50-year-old male patient with high creatinine levels and a history of ALS from Miami, diagnosed in 2019.
+===PHI_TAGS===
+
+===QUERY===
+Management guidelines for a 70-year-old male with Alzheimer's disease showing signs of sundowning, diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Guidelines for anticoagulation therapy in patients with a high CHADS2 score and a history of stroke?
+===PHI_TAGS===
+
+===QUERY===
+Best practices for managing diabetes in elderly patients with a history of heart disease and a recent HgbA1c of 7.5%?
+===PHI_TAGS===
+
+===QUERY===
+What are the potential side effects of levothyroxine in adults with a history of Graves' disease reported in 2021?
+===PHI_TAGS===
+
+===QUERY===
+How should I treat a 50-year-old male with a history of chronic PTSD who was diagnosed in 2015 and has a comorbid condition of COPD?
+===PHI_TAGS===
+
+===QUERY===
+What are the differential diagnoses for a 55-year-old male with an elevated creatinine level of 3.5 and a history of hypertension, diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+Dosage recommendation for Vancomycin in a 67-year-old female with a creatinine clearance of 45 mL/min and a history of rheumatoid arthritis diagnosed in 2018?
+===PHI_TAGS===
+
+===QUERY===
+Management strategies for a 50-year-old male with a BMI of 32 and a Chaddock reflex observed during the physical exam?
+===PHI_TAGS===
+
+===QUERY===
+What are the long-term effects of metformin in a 65-year-old female with an eGFR of 45? Findings from recent studies published in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Please provide the management protocol for a 65-year-old male with a CHA2DS2-VASc score of 5 and a history of atrial fibrillation, last seen in 2022.
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 38-year-old female with a BMI of 35, diagnosed with polycystic ovary syndrome and insulin resistance?
+===PHI_TAGS===
+
+===QUERY===
+Is there any new evidence regarding the use of aspirin in preventing heart attacks for a 58-year-old woman with a high Framingham risk score and diagnosed with hypertension?
+===PHI_TAGS===
+
+===QUERY===
+What are the risks associated with a total knee replacement for a 60-year-old female with a history of Type 1 diabetes and hypertension, using the latest AAOS guidelines from 2022?
+===PHI_TAGS===
+
+===QUERY===
+What are the potential side effects of apixaban for a 65-year-old female with atrial fibrillation and a history of GI bleeds?
+===PHI_TAGS===
+
+===QUERY===
+Management of hypertension in an obese 52-year-old male with a history of smoking?
+===PHI_TAGS===
+
+===QUERY===
+What are the dietary recommendations for a 55-year-old female with a history of hypertension and a high Framingham risk score?
+===PHI_TAGS===
+
+===QUERY===
+Updated treatment guidelines for a 70-year-old female with a history of diabetes and hypertension, considering her recent HbA1c levels?
+===PHI_TAGS===
+
+===QUERY===
+Recommended treatment options for a 65-year-old male with a high Gleason score, diagnosed with prostate cancer at the end of last year?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of Dapagliflozin vs. Empagliflozin in reducing cardiovascular outcomes in patients with Type 2 Diabetes diagnosed in 2019?
+===PHI_TAGS===
+
+===QUERY===
+What is the 5-year survival rate for a 60-year-old Asian male diagnosed with early-stage pancreatic cancer in 2020?
+===PHI_TAGS===
+
+===QUERY===
+Therapeutic approach for a 35-year-old female with NYHA Class III heart failure, previously enrolled in the GUSTO trial.
+===PHI_TAGS===
+
+===QUERY===
+Best practices for managing a 69-year-old African American male with a high CHADS2 score and newly diagnosed atrial fibrillation.
+===PHI_TAGS===
+
+===QUERY===
+What is the latest treatment protocol for managing chronic heart failure in a 63-year-old African American male, with an ejection fraction of 35%?
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for Lyme disease according to the updated 2023 guidelines?
+===PHI_TAGS===
+
+===QUERY===
+What is the best treatment for a 60-year-old woman with chronic migraine who has a history of hypertension and underwent surgery last year?
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for a 34-year-old female diagnosed with Lyme disease showing a positive ELISA test in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Management of a large adrenal incidentaloma in a 62-year-old Hispanic female, according to the 2023 JAMA article.
+===PHI_TAGS===
+
+===QUERY===
+Guideline recommendations for anticoagulation therapy in a 68-year-old female with advanced chronic kidney disease and a history of stroke?
+===PHI_TAGS===
+
+===QUERY===
+Recommended follow-up protocol for a 55-year-old female diagnosed with Addison's disease, who has a cortisol level of 5 mcg/dL?
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for Cushing's syndrome in a 33-year-old female with a BMI of 30, who had a dexamethasone suppression test last week?
+===PHI_TAGS===
+
+===QUERY===
+What is the best practice for treating a 58-year-old patient with diabetes and a high Framingham risk score, diagnosed last year?
+===PHI_TAGS===
+
+===QUERY===
+Management of acute kidney injury in a 70-year-old male with a baseline eGFR of 30, following the KDIGO guidelines from 2019.
+===PHI_TAGS===
+
+===QUERY===
+What is the recommended dosage of lisinopril for a 70-year-old male with a history of hypertension and diabetes, who enrolled in the ALLHAT trial in 2020?
+===PHI_TAGS===
+
+===QUERY===
+What are the side effects of atorvastatin in a 52-year-old female recently diagnosed with high LDL cholesterol and a family history of cardiovascular disease?
+===PHI_TAGS===
+
+===QUERY===
+What are the potential side effects of warfarin in elderly patients with a high CHADS2 score and a history of atrial fibrillation diagnosed in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the diagnostic criteria for a 54-year-old female presenting with a high Chaddock reflex and suspected multiple sclerosis?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 34-year-old female patient with a high Chaddock reflex, diagnosed with multiple sclerosis in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What are the symptoms of Kawasaki disease in children under 5 years old?
+===PHI_TAGS===
+
+===QUERY===
+What are the latest AHA guidelines for managing acute coronary syndrome in elderly patients?
+===PHI_TAGS===
+
+===QUERY===
+What is the latest treatment protocol for newly diagnosed ALS patients, referencing recent findings from the GUSTO trial?
+===PHI_TAGS===
+
+===QUERY===
+Effectiveness of dapagliflozin in heart failure with reduced ejection fraction (HFrEF) in elderly patients, based on findings from the DAPA-HF trial?
+===PHI_TAGS===
+
+===QUERY===
+Latest management guidelines for a 64-year-old female with a Wells score of 7 and a history of GERD?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 75-year-old male with a BUN level of 34 and a creatinine level of 2.1?
+===PHI_TAGS===
+
+===QUERY===
+Recommended antibiotic treatment for a diabetic patient presenting with cellulitis and a measured creatinine level of 2.1 mg/dL.
+===PHI_TAGS===
+
+===QUERY===
+Approach to a 40yo female with a recent diagnosis of Crohn's disease, with lab results showing an ESR of 30 mm/hr.
+===PHI_TAGS===
+
+===QUERY===
+Recommendations for managing a hypertensive patient, age 60, with a Wells score of 3 and history of rheumatoid arthritis?
+===PHI_TAGS===
+
+===QUERY===
+What is the protocol for diagnosing a 72-year-old male with a suspected Horner's syndrome who has a family history of cancer?
+===PHI_TAGS===
+
+===QUERY===
+What is the first-line treatment for a 70-year-old patient with a Chaddock reflex and diagnosed with Alzheimer's disease in 2021?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a patient with a hemoglobin level of 10 and a history of Hodgkin's lymphoma diagnosed in 2020?
+===PHI_TAGS===
+
+===QUERY===
+Early warning signs of dementia in a 75-year-old Hispanic male with a history of hypertension, seen at the clinic last month?
+===PHI_TAGS===
+
+===QUERY===
+What are the treatment options for a 60-year-old female with a history of type 2 diabetes and a recent high creatinine level of 2.5 mg/dL in her lab results from last week?
+===PHI_TAGS===
+
+===QUERY===
+What are the first-line treatments for a 42-year-old male with newly diagnosed Crohn's disease according to the latest NICE guidelines from 2023?
+===PHI_TAGS===
+
+===QUERY===
+What are the recommended follow-up intervals for a 65-year-old female post lumbar laminectomy according to the latest literature?
+===PHI_TAGS===
+
+===QUERY===
+What is the best approach for managing a 55-year-old patient with Cushing's syndrome and a Wells score of 8, diagnosed in 2020?
+===PHI_TAGS===
+
+===QUERY===
+Which treatment options are best for a 52-year-old female with a high Chaddock reflex and a history of Huntington's disease noted in 2021?
+===PHI_TAGS===
+
+===QUERY===
+Latest ADA recommendations for managing Type 1 Diabetes in a 50-year-old male with a history of Graves' disease?
+===PHI_TAGS===
+
+===QUERY===
+Prognosis for a 65-year-old female with a history of bilateral mastectomy and a BRCA1 mutation?
+===PHI_TAGS===
+
+===QUERY===
+What is the prognosis for a 62-year-old male with a Gleason score of 7 and a history of prostate cancer diagnosed in 2020?
+===PHI_TAGS===

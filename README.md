@@ -52,9 +52,13 @@ ASQ-PHI measures this utility-erosion behavior with **219 hard negative queries*
 /
 ├── code/
 │   ├── .env.example                     # Template for Azure OpenAI credentials
+│   ├── parse_dataset.py                 # Shared loader for the delimiter format
+│   ├── split_dataset.py                 # CLI that writes positives.txt / hard_negatives.txt
 │   └── data_generation_pipeline.ipynb   # Notebook for generating ASQ-PHI
 ├── data/
-│   ├── synthetic_clinical_queries.txt   # The core ASQ-PHI dataset (1,051 queries)
+│   ├── synthetic_clinical_queries.txt   # Canonical ASQ-PHI dataset (1,051 queries)
+│   ├── positives.txt                    # Derived: 832 PHI-positive queries
+│   ├── hard_negatives.txt               # Derived: 219 hard-negative queries (zero PHI)
 │   └── dataset_statistics.txt           # Metadata and distribution stats
 ├── figures/                             # Descriptive and validation figures (Figs 1-6)
 │   ├── fig1_data_structure_example.png
@@ -80,6 +84,23 @@ ASQ-PHI measures this utility-erosion behavior with **219 hard negative queries*
 `data/synthetic_clinical_queries.txt` contains **1,051 clinical search queries** using a delimiter-based format:
 
 ![Data Structure Example](figures/fig1_data_structure_example.png)
+
+A positive record and a hard-negative record, verbatim from the master file:
+
+```
+===QUERY===
+What is the latest treatment protocol for a 34-year-old female diagnosed with MS like Anna S., previously treated at Methodist Hospital on April 12, 2023?
+===PHI_TAGS===
+{"identifier_type": "NAME", "value": "Anna S."}
+{"identifier_type": "GEOGRAPHIC_LOCATION", "value": "Methodist Hospital"}
+{"identifier_type": "DATE", "value": "April 12, 2023"}
+
+===QUERY===
+What are the guidelines for prescribing ACE inhibitors to a 55-year-old male with chronic kidney disease and hypertension? He was diagnosed back in 2021.
+===PHI_TAGS===
+```
+
+Hard negatives have an empty `===PHI_TAGS===` block. Both subsets are also available as pre-split files (`data/positives.txt`, `data/hard_negatives.txt`) produced by `code/split_dataset.py`. The master file remains the canonical, paper-cited source; the split files use the same delimiter format so a single parser works on any of them.
 
 **PHI annotations** follow HIPAA Safe Harbor categories: NAME, GEOGRAPHIC_LOCATION, DATE, MEDICAL_RECORD_NUMBER, HEALTH_PLAN_BENEFICIARY_NUMBER, PHONE_NUMBER, SOCIAL_SECURITY_NUMBER, EMAIL_ADDRESS, etc.
 
@@ -133,6 +154,23 @@ These results characterize ASQ-PHI's difficulty and confirm it identifies edge c
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Loading the Dataset
+
+```python
+import sys; sys.path.insert(0, "code")
+from parse_dataset import load_asq_phi
+
+records = load_asq_phi("data/synthetic_clinical_queries.txt")
+positives = [r for r in records if r["has_phi"]]
+hard_negatives = [r for r in records if not r["has_phi"]]
+```
+
+To regenerate the split files:
+
+```bash
+python code/split_dataset.py
 ```
 
 ### Reproducing the Dataset
