@@ -12,6 +12,8 @@
 
 > **Important note:** All content is 100% synthetic. No real patient data were used.
 
+[See how others are using ASQ-PHI ↗](https://jamesweatherhead.github.io/asq-phi-in-the-wild/)
+
 ---
 
 ## The Problem: Safe Handoff from HIPAA BAA LLMs (the BAA → non-BAA boundary)
